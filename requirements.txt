@@ -1,4 +1,2 @@
-﻿flask==3.0.0
-scikit-learn==1.5.0
-pandas==2.2.0
-numpy==1.26.0
+﻿# No heavy libs needed - Pure Python Fraud Detection
+# Run: python train.py  ->  python server.py

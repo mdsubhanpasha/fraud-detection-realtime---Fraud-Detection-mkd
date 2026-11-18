@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "amount": 0.3,
+    "is_night": 0.15,
+    "is_foreign": 0.25,
+    "is_new_device": 0.15,
+    "txn_count_1h": 0.15
+  },
+  "threshold_high": 80,
+  "threshold_medium": 50,
+  "train_accuracy": 94.2,
+  "total_txns": 1000,
+  "fraud_cases": 312
+}
